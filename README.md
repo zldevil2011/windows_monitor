@@ -1,0 +1,2 @@
+# windows_monitor
+监测windows下的程序，在目标程序列表中的软件，如果关闭，发送邮件通知，并将自动打开类似于Linux下的supervisor
